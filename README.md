@@ -27,8 +27,7 @@ Test the behaviour of an **individual unit** or component of application code su
 Test the behaviour of **a set of units**, or different components or modules of your application operating together. They focus on testing interactions between different parts of your code rather than individual units.
 
 
-## Driven Development
-
+## TDD & BDD
 ### 1. Test Driven Development
 In Test-Driven Development (TDD), developers write tests that define the desired functionality of the code before writing the code itself. The process typically involves the following steps:
 
