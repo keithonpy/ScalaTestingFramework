@@ -1,5 +1,21 @@
 # Scala Testing
 
+## Purpose of doing testing
+
+* Detect Bugs: Testing helps identify defects and bugs in your code early in the development process, allowing you to fix them before they become more costly and time-consuming to address later.
+
+* Ensure Correctness: Testing ensures that your code produces the correct output for a given set of inputs. It helps verify that your code implements the desired functionality according to the requirements and specifications.
+
+* Improve Quality: By systematically testing your code, you can improve its overall quality and reliability. Testing helps you build confidence in your codebase and reduces the risk of introducing regressions when making changes.
+
+* Refactor with Confidence: Testing provides a safety net when refactoring or modifying existing code. Having comprehensive test coverage allows you to make changes confidently, knowing that your tests will catch any unintended side effects.
+
+* Document Behavior: Tests serve as documentation for your code, providing examples of how it should be used and what behavior is expected in different scenarios. Tests serve as living documentation that helps developers understand the intended behavior of the codebase.
+
+* Facilitate Collaboration: Tests provide a common language for communication between team members. They help ensure that everyone understands the behavior and requirements of the codebase, making collaboration more effective.
+
+* Support Continuous Integration and Deployment (CI/CD): Testing is an integral part of CI/CD pipelines, where automated tests are run regularly to validate code changes and ensure that they meet the quality standards before deployment.
+
 ## Overview of testing
 
 ### Unit Test
