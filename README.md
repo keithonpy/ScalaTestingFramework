@@ -18,18 +18,18 @@
 
 ## Overview of testing
 
-### Unit Test
+### 1. Unit Test
 
 Test the behaviour of an **individual unit** or component of application code such as methods or classes in isolation. These tests are usually automated and run frequently during development to catch regressions early.
 
-### Integration Test
+### 2. Integration Test
 
 Test the behaviour of **a set of units**, or different components or modules of your application operating together. They focus on testing interactions between different parts of your code rather than individual units.
 
 
 ## Driven Development
 
-### Test Driven Development
+### 1. Test Driven Development
 In Test-Driven Development (TDD), developers write tests that define the desired functionality of the code before writing the code itself. The process typically involves the following steps:
 
 * **Write a Test:** Developers create a test that defines the behavior the code should exhibit. This test usually fails initially because the corresponding code hasn't been implemented yet.
@@ -42,7 +42,7 @@ In Test-Driven Development (TDD), developers write tests that define the desired
 
 * **Repeat:** The cycle is repeated for each new piece of functionality or improvement.
 
-### Behaviour Driven Development
+### 2. Behaviour Driven Development
 
 is a variation of TDD that focuses on the behavior of the software from the perspective of its stakeholders. BDD encourages collaboration between developers, testers, and business representatives to ensure that the software meets the desired behavior or "specifications."
 
