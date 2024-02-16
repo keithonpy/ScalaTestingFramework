@@ -55,3 +55,19 @@ is a variation of TDD that focuses on the behavior of the software from the pers
 * **Refactor:** Developers refactor the code as needed to improve its quality, performance, or maintainability while ensuring that all acceptance tests still pass.
 
 
+## Two popular Scala testing framework
+
+### 1. ScalaTest
+* It provides a variety of styles for writing tests, including FlatSpec, FunSpec, WordSpec, FeatureSpec, etc., allowing developers to choose the style that fits their preferences and project requirements.
+* ScalaTest supports both synchronous and asynchronous testing.
+* It offers a rich set of matchers for expressive and readable assertions.
+* ScalaTest integrates seamlessly with popular build tools like sbt, Maven, and Gradle.
+* ScalaTest has built-in support for property-based testing with ScalaCheck.
+
+### 2. Specs2
+* promotes a more behavior-driven development (BDD) approach to testing, encouraging clear and expressive specifications of desired behaviors.
+* Specs2 provides a clean syntax for writing specifications using its given-when-then structure.
+* supports both synchronous and asynchronous testing.
+* It offers various matchers and assertion styles for concise and readable tests.
+* Specs2 also integrates well with popular build tools and other Scala libraries.
+
