@@ -9,7 +9,7 @@ import DataAnalysis._
 import DataStorage._
 
 
-class BigDataPipelineIntegrationSpec extends AnyFunSpec with Matchers {
+class BigDataPipelineIntegrationScalaTest extends AnyFunSpec with Matchers {
   describe("Big Data Pipeline Integration Test") {
     it("should process and analyze customer interaction data correctly") {
       // Simulate input data
