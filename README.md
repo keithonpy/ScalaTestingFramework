@@ -48,7 +48,7 @@ is a variation of TDD that focuses on the behavior of the software from the pers
 
 * **Define Behavior:** Stakeholders describe the desired behavior of the software using structured, natural language specifications called "scenarios" or "user stories."
 
-* **Write Acceptance Tests:** Developers and testers translate these scenarios into executable acceptance tests using a framework like Cucumber or Behave. These tests serve as both documentation and verification of the system's behavior.
+* **Write Acceptance Tests:** Developers and testers translate these scenarios into executable acceptance tests. These tests serve as both documentation and verification of the system's behavior.
 
 * **Write Code:** Developers implement the code necessary to satisfy the acceptance tests. Similar to TDD, this is an iterative process where code is written in small increments, with tests being run frequently to ensure that the behavior remains consistent.
 
